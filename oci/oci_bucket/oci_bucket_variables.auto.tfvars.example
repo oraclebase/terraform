@@ -1,0 +1,4 @@
+# Amend with your details.
+compartment_id     = "ocid1.compartment.oc1..aaaaaaaa..."
+bucket_name        = "ob-bucket2"
+bucket_namespace   = "lrxjmaqkl..."
