@@ -1,0 +1,7 @@
+# Amend with your details.
+tenancy_ocid        = "ocid1.tenancy.oc1..aaaaaaaa..."
+user_ocid           = "ocid1.user.oc1..aaaaaaaa..."
+private_key_path    = "/path-to-my/.oci/my-oci-key.pem"
+fingerprint         = "a5:68:0f:46:6d:06:43:5a:38:98:74:??:??:??:??:??"
+region              = "uk-london-1"
+root_compartment_id = "ocid1.tenancy.oc1..aaaaaaaa..."
