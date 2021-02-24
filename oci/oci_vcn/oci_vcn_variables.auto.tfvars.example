@@ -1,2 +1,3 @@
-compartment_id = "ocid1.compartment.oc1..aaaaaaaa..."
-vcn_display_name = "obvcn3"
+compartment_id      = "ocid1.compartment.oc1..aaaaaaaa..."
+vcn_display_name    = "obvcn3"
+subnet_display_name = "obsubnet3"
