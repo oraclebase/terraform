@@ -1,0 +1,14 @@
+# Amend with your details.
+compartment_id      = "ocid1.compartment.oc1..aaaaaaaa..."
+db_admin_password   = "MyStrongPassword123--"
+db_host_domain      = "obdomain"
+db_name             = "cdb1"
+db_workload         = "OLTP"
+db_pdb_name         = "pdb1"
+db_version          = "21.1.0.0"
+db_hostname         = "obtest2"
+db_shape            = "VM.Standard2.1"
+db_public_keys      = ["ssh-rsa AAAAB3Nza..."]
+db_subnet_id        = "ocid1.subnet.oc1.uk-london-1.aaaaaaaa..."
+db_display_name     = "obtest2"
+db_storage_gb       = 256
