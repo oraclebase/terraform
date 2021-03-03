@@ -1,2 +1,2 @@
 vcn_display_name = "obvcn3"
-subnet_display_name = "obsubnet3"
+vcn_dns_label    = "obvcn3"
