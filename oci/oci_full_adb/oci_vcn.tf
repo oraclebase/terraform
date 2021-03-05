@@ -20,7 +20,7 @@ variable "vnc_public_subnet_cidr_block" {
 
 
 # Modules and Resources
-module "vcn"{
+module "vcn" {
   source                   = "oracle-terraform-modules/vcn/oci"
   version                  = "2.0.0"
   
