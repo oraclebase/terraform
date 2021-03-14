@@ -1,0 +1,6 @@
+compartment_id              = "ocid1.compartment.oc1..aaaaaaaa..."
+compute_shape               = "VM.Standard.E2.1.Micro"
+compute_name                = "obvm1"
+compute_subnet_id           = "ocid1.subnet.oc1.uk-london-1.aaaaaaaa..."
+compute_image_id            = "ocid1.image.oc1.uk-london-1.aaaaaaaa..."
+compute_ssh_authorized_keys = "./myOracleCloudKey.pub"
