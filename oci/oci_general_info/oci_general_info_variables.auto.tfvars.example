@@ -1,0 +1,5 @@
+# Amend with your details.
+compartment_id           = "ocid1.compartment.oc1..aaaaaaaa..."
+operating_system         = "Oracle Linux"
+operating_system_version = "8"
+shape                    = "VM.Standard.E2.1.Micro"
