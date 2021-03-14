@@ -84,6 +84,6 @@ output "db_state" {
   value = oci_database_db_system.tf_db.state
 }
 
-output "first-availability-domain_name" {
+output "first_availability_domain_name" {
   value = data.oci_identity_availability_domains.ads.availability_domains[0].name
 }
