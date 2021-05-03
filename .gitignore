@@ -4,5 +4,6 @@
 .terraform
 .terraform.lock.hcl
 *.pub
+*.out
 terraform.tfstate
 terraform.tfstate.backup
