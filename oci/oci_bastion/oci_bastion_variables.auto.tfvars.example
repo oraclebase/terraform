@@ -1,0 +1,4 @@
+compartment_id                       = "ocid1.compartment.oc1..aaaaaaaa..."
+target_subnet_id                     = "ocid1.subnet.oc1.uk-london-1.aaaaaaaa..."
+bastion_name                         = "obbastion1"
+bastion_client_cidr_block_allow_list = ["10.0.1.0/24"]
