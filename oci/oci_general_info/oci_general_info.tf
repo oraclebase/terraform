@@ -45,7 +45,7 @@ output "availability_domain_names" {
 }
 
 output "latest_image_id" {
-  value = data.oci_core_images.tf_images.images[0].id
+  value = data.oci_core_images.tf_images.images[1].id
 }
 
 output "shape_names" {
